@@ -1,0 +1,53 @@
+.app__footer {
+  position: fixed;
+  bottom: 0;
+  width: 99%;
+  color: rgb(0, 0, 0);
+  background-color: white;
+  padding: 20px;
+  border-top: 2px solid lightgrey;
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.app__footer__icons {
+  color: black;
+}
+
+.imageUpload {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* position: fixed;
+    bottom: 0; */
+}
+.imageUpload > h3 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageUpload__progress {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.imageUpload__caption {
+  width: 100%;
+  margin-left: 2px;
+  line-height: 40px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-color: black;
+}
+
+.imageUpload__file {
+  width: 100%;
+  margin-bottom: 10px;
+}
