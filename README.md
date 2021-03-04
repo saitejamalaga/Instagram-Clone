@@ -1,3 +1,5 @@
+Check the Build version of the Clone application at: https://instagram-clone-5c6c9.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
